@@ -37,7 +37,7 @@ https://www.18t.team/#/login
 
 # 翻墙工具大集合
 
-Android版翻墙软件
+### Android版翻墙软件
 
 ---Anxray:
 https://t.me/abc999222/97858
@@ -66,7 +66,7 @@ https://github.com/trojan-gfw/igniter/releases
 ---BifrostV:
 https://github.com/v2raym/bifrostv/blob/master/BifrostV_v0.6.8.apk
 
-Windows电脑版翻墙软件
+### Windows电脑版翻墙软件
 
 ---SS：
 https://github.com/shadowsocks/shadowsocks-windows/releases
