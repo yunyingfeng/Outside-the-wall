@@ -9,8 +9,8 @@
 
 # 白嫖机场注册
 
-https://a.luxury/signin ； 
-https://vpnbob.com ；
+https://a.luxury/signin； 
+https://vpnbob.com；
 https://my.pbap.cc/#/register；
 https://ccc4.faaaoojxxssaddasd.tk/#/register；
 https://ikuuu.cc；
