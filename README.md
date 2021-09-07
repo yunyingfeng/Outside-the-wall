@@ -39,65 +39,66 @@
 
 ### Android版翻墙软件
 
-#### Anxray:
+##### Anxray:
 https://t.me/abc999222/97858
 
----SS：
+##### SS：
 - https://github.com/shadowsocks/shadowsocks-android/releases
----SSR：
+##### SSR：
 - https://github.com/HMBSbige/ShadowsocksR-Android/releases
----V2RayNG:
+##### V2RayNG:
 - https://github.com/2dust/v2rayNG/releases
----Clash:
+##### Clash:
 - https://github.com/Kr328/ClashForAndroid/releases
----SSRRAY：
+##### SSRRAY：
 - https://github.com/xxf098/shadowsocksr-v2ray-android/releases
----SagerNet：
+##### SagerNet：
 - https://github.com/nekohasekai/SagerNet/releases
----Pharos Pro:
+##### Pharos Pro:
 - https://t.me/Pharos_Pro_Announcements
 - https://github.com/PharosVip/Pharos-Android-Test/releases
----Kitsunebi：
+##### Kitsunebi：
 - https://github.com/eycorsican/kitsunebi-android/releases
----Surfboard:
+##### Surfboard:
 - https://manual.getsurfboard.com/
----igniter:
+##### igniter:
 - https://github.com/trojan-gfw/igniter/releases
----BifrostV:
+##### BifrostV:
 - https://github.com/v2raym/bifrostv/blob/master/BifrostV_v0.6.8.apk
 
 ***
 
 ### Windows电脑版翻墙软件
 
----SS：
+##### SS：
 - https://github.com/shadowsocks/shadowsocks-windows/releases
----SSR：
-- https://github.com/HMBSbige/ShadowsocksR-Windows/releases----V2RayN:
+##### SSR：
+- https://github.com/HMBSbige/ShadowsocksR-Windows/releases
+##### V2RayN:
 - https://github.com/2dust/v2rayN/releases
----Clash:
+##### Clash:
 - https://github.com/Fndroid/clash_for_windows_pkg/releases
----Clash汉化文件:
+##### Clash汉化文件:
 - https://t.me/ClashR_for_Windows_Channel
----Clash.Net
+##### Clash.Net
 - https://github.com/ClashDotNetFramework/ClashDotNetFramework/releases
----Clash.Mini
+##### Clash.Mini
 - https://github.com/Clash-Mini/Clash.Mini/releases
----Qv2ray：
+##### Qv2ray：
 - https://github.com/Qv2ray/Qv2ray/releases
----winXray：
+##### winXray：
 - https://t.me/winxrayxg0
 - https://www.winxray.com/wp-content/uploads/2021/06/WinXray.7z
----Netch：
+##### Netch：
 - https://github.com/NetchX/Netch/releases
----V2Ray-Desktop：
+##### V2Ray-Desktop：
 - https://github.com/Dr-Incognito/V2Ray-Desktop/releases
----Trojan-QT5：
+##### Trojan-QT5：
 - https://github.com/McDull-GitHub/trojan-qt5/releases
----Trojan-client-slim：
+##### Trojan-client-slim：
 - https://github.com/KevinZonda/trojan-client-slim/releases
----Stairspeedtest：
+##### Stairspeedtest：
 - https://github.com/tindy2013/stairspeedtest-reborn/releases
----SSCap：
+##### SSCap：
 - https://github.com/Windyronnie/SSCap-v4.0
 
