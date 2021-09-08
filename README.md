@@ -40,7 +40,7 @@
 ### Android版翻墙软件
 
 ##### Anxray:
-https://t.me/abc999222/97858
+- https://github.com/yunyingfeng0/Outside-the-wall-vpn/releases/tag/%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7
 
 ##### SS：
 - https://github.com/shadowsocks/shadowsocks-android/releases
