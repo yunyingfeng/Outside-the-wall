@@ -7,6 +7,11 @@
 # 墙外世界探索
 ![公众号二维码图片](https://user-images.githubusercontent.com/87920233/132252759-aa26b976-76ef-4780-8fda-f169b161f3e3.png)
 
+# 暴雪vpn
+### 永久白嫖、无需注册 邀请码6833537677661339648
+###  Android   IOS   Windows
+- http://75.2.115.124:3000/index.html
+
 # 白嫖机场注册
 
 - https://a.luxury/signin
