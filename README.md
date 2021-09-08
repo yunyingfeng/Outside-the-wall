@@ -10,7 +10,7 @@
 # 暴雪vpn
 ### 永久白嫖、无需注册 邀请码6833537677661339648
 ###  Android   IOS   Windows
-- http://75.2.115.124:3000/index.html
+- http://www.bxvpn.com/
 
 # 白嫖机场注册
 
