@@ -7,11 +7,12 @@
 # 墙外世界探索
 ![公众号二维码图片](https://user-images.githubusercontent.com/87920233/132252759-aa26b976-76ef-4780-8fda-f169b161f3e3.png)
 
-# 暴雪vpn
+# 暴雪vpn   （Android   IOS   Windows）
 ### 永久白嫖、无需注册 邀请码6833537677661339648
-###  Android   IOS   Windows
 - http://www.bxvpn.com/
-
+# fair vpn  （ios）
+### 有永久免费节点，也可添加订阅，小火箭支持的都能用
+- https://apps.apple.com/us/app/fair-vpn/id1533873488
 # 白嫖机场注册
 
 - https://a.luxury/signin
