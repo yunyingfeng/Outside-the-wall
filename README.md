@@ -7,14 +7,31 @@
 # 墙外世界探索
 ![公众号二维码图片](https://user-images.githubusercontent.com/87920233/132252759-aa26b976-76ef-4780-8fda-f169b161f3e3.png)
 
-# fair vpn  （ios）
-### 有永久免费节点，也可添加订阅，小火箭支持的都能用
+# 白嫖vpn
+### fair vpn
 - https://apps.apple.com/us/app/fair-vpn/id1533873488
 - 该app需要美区ID，注册方法 https://sourl.cn/ajTyJ2
-# 白嫖机场注册
+### tulingx
+- https://github.com/YoungBoy0048/tulingx
+### leaf
+- https://github.com/eycorsican/leaf/releases/tag/v0.3.1
+- 苹果商店下载
+### shadowlink
+- 苹果商店下载
+### pt vpn
+- 苹果商店下载
+### jet vpn
+- 苹果商店下载
+# 白嫖TG代理
+### proxyom
+- 苹果商店下载
+### Deeproxy
+- 苹果商店下载
 
+# 白嫖机场注册
+- https://free.riyumi.xyz//auth/register?code=Lz7S
 - https://a.luxury/signin
-- https://vpnbob.com
+- https://www.qtyuncloud.tk/auth/register?code=0r3r
 - https://my.pbap.cc/#/register
 - https://ccc4.faaaoojxxssaddasd.tk/#/register
 - https://ikuuu.cc
