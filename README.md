@@ -16,7 +16,7 @@
 ### leaf
 - https://github.com/eycorsican/leaf/releases/tag/v0.3.1
 - 苹果商店下载
-### shadowlink
+### telei
 - 苹果商店下载
 ### pt vpn
 - 苹果商店下载
