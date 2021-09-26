@@ -8,6 +8,8 @@
 ![公众号二维码图片](https://user-images.githubusercontent.com/87920233/132252759-aa26b976-76ef-4780-8fda-f169b161f3e3.png)
 
 # 白嫖vpn
+### doisnet vpn （Windows）
+- https://doisnet.com/api/v1/share/6150b9de243324f31abc1486
 ### fair vpn
 - https://apps.apple.com/us/app/fair-vpn/id1533873488
 - 该app需要美区ID，注册方法 https://sourl.cn/ajTyJ2
